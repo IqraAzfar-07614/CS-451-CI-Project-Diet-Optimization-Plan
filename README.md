@@ -1,0 +1,2 @@
+This project works on creating an Optimized Diet Plan for Athletes belonging to different sports groups. The EA algorithm is implemented to achieve the optimized diet plan results. The UI can be seen from dashboard.py.
+The user gives information such as their age group, sport, gender, and food preferences. Their personal infomration is checked to set their target nutritional values and the algorithm begins to design a diet plan for them.
